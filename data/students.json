@@ -1,0 +1,29 @@
+[
+    {
+        "student_id": "001",
+        "first_name": "Ernestini",
+        "last_name": "Villanueva",
+        "age": 21,
+        "course": "Bachelor of Science in Information Technology",
+        "email": "ernest.villanueva.ecoast@panpacificu.edu.ph",
+        "phone": "09928248839"
+    },
+    {
+        "student_id": "002",
+        "first_name": "Mark Dave",
+        "last_name": "Lea\u00f1o",
+        "age": 20,
+        "course": "Bachelor of Science in Information Technology",
+        "email": "mark.dave.lea\u00f1o.ecoast@panpacificu.edu.ph",
+        "phone": "091248294245"
+    },
+    {
+        "student_id": "003",
+        "first_name": "Marc Alexis",
+        "last_name": "Navarrete",
+        "age": 20,
+        "course": "Bachelor of Science in Information Technology",
+        "email": "marc.alexis.navarette.ecoast@panpacificu.edu.ph",
+        "phone": "09235891254"
+    }
+]
